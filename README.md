@@ -56,7 +56,7 @@
       alt="react" width="40" height="40" /> </a>
       <a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_americas_united_states_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624338&adgroup=115749704103&gclid=CjwKCAjwwo-WBhAMEiwAV4dybQIISKIhKUGN9AXTaoe4Mo7O1nngPy6r-SN6qquzEkbFnqoiCdJYBxoCHs8QAvD_BwE"><img
       src="https://www.svgrepo.com/show/331488/mongodb.svg"
-      alt="mongo" width="40" height="40" /></a> <a href="https://tailwindcss.com/"><img src="https://avatars.githubusercontent.com/u/67109815?v=4&s=400" width="40" height="40" alt="tailwind"/></a>
+      alt="mongo" width="40" height="40" /></a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="40" height="40" alt="tailwind"/></a>
       <a href="https://www.docker.com/"><img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="40" height="40" alt="docker"/></a>
 </p>
       
