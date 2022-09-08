@@ -1,11 +1,8 @@
 
 ![Tools And Technologies ](https://github.com/NFGarilli/NFGarilli/blob/main/keyb.jfif)
 
-# Hi there 👋, my name is Nicolás
-I'm a 22 years old Computer Science student from Argentina.
-
 <h1 align="center">Hi 👋, I'm Nicolás!</h1>
-<h3 align="center">Computer Science Student & Web Dev</h3>
+<h3 align="center">Computer Science Student & Web Dev from Buenos Aires, Argentina.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nfgarilli&label=Profile%20views&color=0e75b6&style=flat"
     alt="nfgarilli"/> 
