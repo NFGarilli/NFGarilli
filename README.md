@@ -29,7 +29,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="instagram-brandon" height="30" width="40" /></a>
   </p>
-    [![GitHub followers](https://img.shields.io/github/followers/tomassanchezz?label=Follow&style=social)](https://github.com/nfgarilli/?tab=follow)\
+    [![GitHub followers](https://img.shields.io/github/followers/nfgarilli?label=Follow&style=social)](https://github.com/nfgarilli/?tab=follow)\
 
 
 <br>
