@@ -28,8 +28,9 @@
   <a href="https://www.instagram.com/nicogarilli/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="instagram-brandon" height="30" width="40" /></a>
+      <img src="https://img.shields.io/github/followers/nfgarilli?style=social" alt="follow"/>
   </p>
-    [![GitHub followers](https://img.shields.io/github/followers/nfgarilli?label=Follow&style=social)](https://github.com/nfgarilli/?tab=follow)\
+  
 
 
 <br>
